@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Driver+Banco+de+Dados+PostgreSQL+-+postgresql-42.7.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bibliotecas/Driver+Banco+de+Dados+PostgreSQL+-+postgresql-42.7.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
