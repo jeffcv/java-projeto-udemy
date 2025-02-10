@@ -4,7 +4,7 @@ import java.sql.*;
 
 public class FabricaConexoes {
 
-    private static String url = "jdbc:postgresql://localhost:5432/clientes";
+    private static String url = "jdbc:postgresql://localhost:5432/postgres";
     private static String username = "postgres";
     private static String password = "postgres";
 
